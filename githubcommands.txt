@@ -1,0 +1,15 @@
+//create the repository and add the project
+git config --global user.name "sumathi1" 
+
+git config --global user.email sumathi.kanumuri123@gmail.com
+
+git clone https://github.com/sumathi1/SampleAppliction.git
+
+cd SampleAppliction
+
+git add .
+
+git commit -m "comments"
+
+git push -u origin master
+t 
